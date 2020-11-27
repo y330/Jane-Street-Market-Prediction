@@ -1,5 +1,10 @@
 
-# coding: utf-8
+# File name: Multiple LR model.py
+# Author: Yonah Aviv
+# Date created: Nov 25, 2020
+# Last Modified: Nov 26, 2020
+
+# This code was made by Yonah Aviv for the course "Python and Statistics for Fincancial Analysis" on coursera.
 
 # # Multiple linear regression model
 # ### Let's mimic the process of building our trading model of SPY, base on the historical data of different stock markets
