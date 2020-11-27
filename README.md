@@ -12,4 +12,4 @@ Featured Code Competition
 Definitly still a work in progress as I need to get my code working.
 
 
-[Go to code(.py)](work/Multiple LR model.py)
+[Go to code .py](work/Multiple LR model.py)
