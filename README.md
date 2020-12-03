@@ -1,15 +1,14 @@
 # Jane Street Market Prediction
 ## Yonah Aviv
 
-My model for the Jane Street Market Prediction contest on Kaggle
+My attempt at the Jane Street Market Prediction contest on Kaggle
 
-Featured Code Competition
-> [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview/evaluation) - Test your model against future real market dataa
+> [Jane Street Market Prediction(Go to kaggle.com)](https://www.kaggle.com/c/jane-street-market-prediction/overview/evaluation) - Test your model against future real market dataa
 
 
  
  
-Definitly still a work in progress as I need to get my code working.
+So far this is just a copy from a course I did on coursera on [python for financial analysis](https://www.coursera.org/learn/python-statistics-financial-analysis/home/welcome).
 
 
 
